@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DCSMS-Hishoot xmlns:android="http://androidminang.com/armdevteam">
+    <device>Galaxy Pocket</device>
+    <author>Ipul d'Cleverior</author>
+		<topx>83</topx>
+		<topy>130</topy>
+		<botx>67</botx>
+		<boty>150</boty>
+<!-- DEVICE DPI
+ldpi=0
+mdpi=1
+hdpi=2
+xhdpi=3
+xxhdpi=4
+-->
+	<deviceDpi>0</deviceDpi>
+</DCSMS-Hishoot>
